@@ -1,2 +1,2 @@
-github=https://github.com/Charus/Probably_Affli54
+github=https://github.com/benphelps/Probably_ProbablyTest
 version=0.1
