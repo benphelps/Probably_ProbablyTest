@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: Probably - ProbabyTest
+## Notes: ProbablyEngine Custom Arcane Mage
+## Dependencies: Probably
+
+rotation.lua
