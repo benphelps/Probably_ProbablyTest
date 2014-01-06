@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Probably>
-      <addon name="Probably_ProbablyTest" author="Phelps" version="0.1">
+      <addon name="Probably_ProbablyTest" author="Phelps" version="0.2">
             <github link="https://github.com/benphelps/Probably_ProbablyTest"/>
             <support link="https://probablyengine.com/"/>
             <paypal link="https://paypal.com/"/>
